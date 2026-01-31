@@ -1,30 +1,142 @@
-<h2>Hiee, Greeva here 👋</h2>
+<h2 align="center">Hiee, Greeva here 👋</h2>
 
-<p>
-So here’s a <i>little</i> about me.<br>
+<p align="center">
+So here’s a <b>little</b> about me.<br>
 I’m a curious learner who loves understanding how things work — from code and startups to human psychology, philosophy, and entirely new industries.<br>
-I enjoy building skills across domains and constantly upgrading how I think, create, and solve problems.
+I enjoy building skills across domains and continuously upgrading how I think, create, and solve problems.
 </p>
-I’m currently working on 🏃‍♀️<br>- A startup called AgeWell<br>- Personal and collaborative coding projects<br>- Exploring the startup and business ecosystem<br>- Understanding how technology, products, and people intersect<br>- Building consistency, discipline, and self-improvement habits<br><br>I’m looking to collaborate on 💌<br>- Startup ideas and early-stage projects<br>- Tech projects with real-world applications<br>- Hardware-based projects (even tho, it's not my domain but would love to)<br>- E-commerce ideas and platforms<br>- Research and exploratory work in defence and deep-tech domains<br><br>I’m looking for help with 🙂‍↕️<br>- Business growth and product thinking<br>- Improving coding depth and system-level understanding<br>- Turning ideas into structured and scalable projects<br>- Learning from people who build beyond tutorials<br><br>I’m currently learning 🙇‍♀️<br>- Software development and better coding practices<br>- Product thinking and startup execution<br>- Human psychology and perspective building<br>- How the business world actually works<br>and How to balance college, startup, and mental peace :(<br><br>Ask me about ⚡<br>- Exploring different domains before choosing one path<br>- Startups, product ideas, and early experimentation<br>- Psychology, philosophy, and human behavior<br>- Different theories, patterns, and conspiracy discussions, basically can discuss anything :)<br><br><br>Fun fact 😴<br><br>1. I’m deeply passionate about travelling, especially oceans and seas like, crazy obsessed🌊 <br>Even, My top bucket-list dream is to swim through Mexico’s cenotes.<br>Plot twist: I haven’t learned swimming yet because I once believed it would give me white patches on my face :(<br>Despite that, I have explored a wide range of activities, including art, dance, singing, archery, karate, and more, driven by curiosity.<br><br>2. Once, I sleepwalked down the entire building and stayed in the garden overnight while my whole family was asleep. It was the first and last time I ever sleepwalked xD<br><br>3. I never run out of stories :')
 
+<p align="center">⋯ ⋯ ⋯</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/greeva-verma-letsconnect) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@greev.a133) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:greev.a133@gmail.com) 
+<h2>🚧 What I’m Currently Working On</h2>
+<p><i>Things that keep me busy, curious, and learning</i></p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- A startup called <b>AgeWell</b>  
+- Personal and collaborative coding projects  
+- Exploring the startup and business ecosystem  
+- Understanding how technology, products, and people intersect  
+- Building consistency, discipline, and self-improvement habits  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Greevaaa13&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Greevaaa13&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Greevaaa13&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">⋯ ⋯ ⋯</p>
 
----
+<h2>🤍 Open to Collaborations</h2>
+<p><i>I love building with people and learning along the way</i></p>
+
+- Startup ideas and early-stage projects  
+- Tech projects with real-world applications  
+- Hardware-based projects (not my domain yet, but very curious)  
+- E-commerce ideas and platforms  
+- Research and exploratory work in defence and deep-tech domains  
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>🧩 Looking for Help With</h2>
+<p><i>Because learning alone has limits</i></p>
+
+- Business growth and product thinking  
+- Improving coding depth and system-level understanding  
+- Turning ideas into structured and scalable projects  
+- Learning from people who build beyond tutorials  
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>🌱 Currently Learning</h2>
+<p><i>Actively unlearning and relearning</i></p>
+
+- Software development and better coding practices  
+- Product thinking and startup execution  
+- Human psychology and perspective building  
+- Philosophy and critical thinking  
+- How the business world actually works  
+- How to balance college, startup, and mental peace  
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>💬 Ask Me About</h2>
+<p><i>If curiosity had a discussion board</i></p>
+
+- Exploring different domains before choosing one path  
+- Startups, product ideas, and early experimentation  
+- Psychology, philosophy, and human behavior  
+- Different theories, patterns, and conspiracy discussions  
+- Or honestly… anything worth thinking about  
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>🧩 Small Things About Me</h2>
+<p><i>Random, real, and very me</i></p>
+
+1. I’m deeply passionate about travelling, especially oceans and seas.  
+   My top bucket-list dream is to swim through Mexico’s cenotes.  
+   Plot twist: I haven’t learned swimming yet because I once believed it would give me white patches on my face.  
+   Despite that, I’ve explored art, dance, singing, archery, karate, and more — driven purely by curiosity.
+
+2. Once, I sleepwalked down the entire building and stayed in the garden overnight while my family was asleep.  
+   It was the first and last time it ever happened.
+
+3. I never run out of stories.
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>📅 2026 Consistency Board</h2>
+<p><i>Showing up matters more than being perfect</i></p>
+
+- [ ] Day 1  - [ ] Day 11 - [ ] Day 21  
+- [ ] Day 2  - [ ] Day 12 - [ ] Day 22  
+- [ ] Day 3  - [ ] Day 13 - [ ] Day 23  
+- [ ] Day 4  - [ ] Day 14 - [ ] Day 24  
+- [ ] Day 5  - [ ] Day 15 - [ ] Day 25  
+- [ ] Day 6  - [ ] Day 16 - [ ] Day 26  
+- [ ] Day 7  - [ ] Day 17 - [ ] Day 27  
+- [ ] Day 8  - [ ] Day 18 - [ ] Day 28  
+- [ ] Day 9  - [ ] Day 19 - [ ] Day 29  
+- [ ] Day 10 - [ ] Day 20 - [ ] Day 30  
+
+<p><i>One tick a day. That’s it.</i></p>
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>🛠️ Things I Build With</h2>
+<p><i>Tools, languages, and platforms I enjoy working with</i></p>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>📈 My GitHub in Numbers</h2>
+<p><i>A snapshot of learning, experiments, and consistency</i></p>
+
+![](https://github-readme-stats.vercel.app/api?username=Greevaaa13&theme=one_dark_pro)
+![](https://nirzak-streak-stats.vercel.app/?user=Greevaaa13&theme=one_dark_pro)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Greevaaa13&layout=compact&theme=one_dark_pro)
+
+<p align="center">⋯ ⋯ ⋯</p>
+
+<h2>🐍 Contribution Flow</h2>
+<p><i>Because consistency leaves patterns</i></p>
+
 <p align="center">
   <img src="https://github.com/Greevaaa13/Greevaaa13/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/greeva-verma-letsconnect">LinkedIn</a> •
+  <a href="https://medium.com/@greev.a133">Medium</a> •
+  <a href="mailto:greev.a133@gmail.com">Email</a>
+</p>
+
+<p align="center">
+<i>Thanks for stopping by. This profile will keep evolving.</i>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Greevaaa13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- CREDITS TO GPRM -VishwaGauravIn -->
+<!-- INSPIRATION FROM GPRM -VishwaGauravIn -->
 
