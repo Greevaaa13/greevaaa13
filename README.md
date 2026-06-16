@@ -68,8 +68,8 @@ I enjoy building skills across domains and continuously upgrading how I think, c
 
 1. I’m deeply passionate about travelling, especially oceans and seas.  
    My top bucket-list dream is to swim through Mexico’s cenotes.  
-   Plot twist: I haven’t learned swimming yet because I once believed it would give me white patches on my face.  
-   Despite that, I’ve explored art, dance, singing, archery, karate, and more — driven purely by curiosity.
+   Twist: I haven’t learned swimming yet because I once believed it would give me white patches on my face.  
+   Despite that, I’ve explored art, dance, singing, archery, karate, and more — too curious.
 
 2. Once, I sleepwalked down the entire building and stayed in the garden overnight while my family was asleep.  
    It was the first and last time it ever happened.
@@ -89,15 +89,6 @@ I enjoy building skills across domains and continuously upgrading how I think, c
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<p align="center">⋯ ⋯ ⋯</p>
-
-<h2>📈 My GitHub in Numbers</h2>
-<p><i>A snapshot of learning, experiments, and consistency</i></p>
-
-![](https://github-readme-stats.vercel.app/api?username=Greevaaa13&theme=one_dark_pro)
-![](https://nirzak-streak-stats.vercel.app/?user=Greevaaa13&theme=one_dark_pro)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Greevaaa13&layout=compact&theme=one_dark_pro)
 
 <p align="center">⋯ ⋯ ⋯</p>
 
